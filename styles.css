@@ -1,0 +1,49 @@
+
+
+.name {
+  text-align: center;
+  font-size: 48px;
+}
+
+.email {
+  text-align: center;
+  font-size: 24px;
+}
+
+.phone {
+  text-align: center;
+  font-size: 18px;
+}
+
+hr {
+  height: 5px;
+  width: 95%;
+  color: black;
+  background-color: black;
+}
+
+.posts {
+  display: inline;
+}
+.title {
+  font-weight: bold;
+  text-indent: 30px;
+  font-size: 22px;
+}
+
+.college {
+  text-indent: 45px;
+}
+
+.jobskills {
+  padding-left: 45px;
+}
+
+.datestamp { 
+  text-align: right;
+  padding-right: 30px;
+}
+
+.degree {
+  padding-left: 60px;
+}
